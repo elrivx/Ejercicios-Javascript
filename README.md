@@ -1,2 +1,2 @@
-# Eejercicios Resueltos JS.
-Eejercicios resueltos Javascript con fines académicos.
+# Ejercicios Resueltos JS.
+Ejercicios resueltos Javascript con fines académicos.
