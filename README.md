@@ -2,10 +2,10 @@
 Ejercicios resueltos Javascript con fines académicos.
 
 ## Índice
-- [1. For y fuera de For](#Primero)
-- [2. Funciones](#Segundo)
+- [1. For y fuera de For](#For)
+- [2. Funciones](#Funciones)
 
-## Primero
+## For
 
 En ésta carpeta se ven tres ejemplos del funcionamiento del bucle
 FOR en Javascript. Éstos son:
@@ -15,7 +15,7 @@ FOR en Javascript. Éstos son:
   del bucle FOR.
 - Mostrar por consola el valor de la variable X y de la variable i.
 
-## Segundo
+## Funciones
 
  En ésta carpeta se ven ejemplos de funciones en Javascript:
 - La función, ¿Por qué no se ejecuta?
