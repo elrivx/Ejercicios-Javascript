@@ -19,4 +19,5 @@ FOR en Javascript. Éstos son:
 
  En ésta carpeta se ven ejemplos de funciones en Javascript:
 - La función, ¿Por qué no se ejecuta?
+- El orden de declaración, ¿Alter la ejecución de la función?
 
