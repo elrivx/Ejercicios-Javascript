@@ -15,6 +15,7 @@ FOR en Javascript. Éstos son:
 - Mostrar en consola el valor de x después de ejecutar las instrucciones
   del bucle FOR.
 - Mostrar por consola el valor de la variable X y de la variable i.
+- ¿Qué pasaría si el segundo bucle FOR no tiene interacción? (4.1 y 4.2).
 
 ## Funciones
 
