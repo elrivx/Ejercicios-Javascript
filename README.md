@@ -4,7 +4,7 @@ Ejercicios resueltos Javascript con fines académicos.
 ## Índice
 - [1. For y fuera de For](#For)
 - [2. Funciones](#Funciones)
-- [3.Quebremos la Tensión ](#Break)
+- [3. Quebremos la Tensión ](#Break)
 
 ## For
 
