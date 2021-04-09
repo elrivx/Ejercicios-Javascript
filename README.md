@@ -23,6 +23,7 @@ FOR en Javascript. Éstos son:
  En ésta carpeta se ven ejemplos de funciones en Javascript:
 - La función, ¿Por qué no se ejecuta?
 - El orden de declaración, ¿Altera la ejecución de la función?
+- Sumando números pares hasta 1000
 
 ## Break
 
