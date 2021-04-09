@@ -1,3 +1,5 @@
+// Sumando números pares hasta el 1000
+
 function sum_even_numbers(){
 
     var sum = 0;
