@@ -24,6 +24,7 @@ FOR en Javascript. Éstos son:
 - La función, ¿Por qué no se ejecuta?
 - El orden de declaración, ¿Altera la ejecución de la función?
 - Sumando números pares hasta 1000
+- Función que muestra la lista de números entre 0 y X, además del resultado de la sumatoria entre ellos.
 
 ## Break
 
