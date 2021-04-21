@@ -25,6 +25,7 @@ FOR en Javascript. Éstos son:
 - El orden de declaración, ¿Altera la ejecución de la función?
 - Sumando números pares hasta 1000
 - Función que muestra la lista de números entre 0 y X, además del resultado de la sumatoria entre ellos.
+- 06.1: Suma de elementos con un For Clásico.
 
 ## Break
 
